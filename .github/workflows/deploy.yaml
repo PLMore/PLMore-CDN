@@ -16,4 +16,3 @@ jobs:
           heroku_app_name: "plmore-cdn" #Must be unique in Heroku
           heroku_email: "zouaghi.wow1919@gmail.com"
           usedocker: true
-          
